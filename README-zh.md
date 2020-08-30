@@ -198,3 +198,5 @@ The PlayCanvas Engine is released under the [MIT](https://opensource.org/license
 [twitter-badge]: https://img.shields.io/twitter/follow/playcanvas.svg?style=social&label=Follow
 [twitter-url]: https://twitter.com/intent/follow?screen_name=playcanvas
 [docs]: https://developer.playcanvas.com/en/api/
+
+[![Run on Repl.it](https://repl.it/badge/github/UhOhStinky12/engine)](https://repl.it/github/UhOhStinky12/engine)
